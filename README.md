@@ -3,10 +3,10 @@
 🔗 **Live App:**  
 https://resume-classification-f9qjrdbf2dyyhab568htvp.streamlit.app/
 
-## 📌 Problem Statement
+## Problem Statement
 Automatically classify resumes into job categories using Natural Language Processing (NLP) and Machine Learning.
 
-## 🧠 Approach
+## Approach
 - Extract text from PDF and DOCX resumes
 - Clean and preprocess text data
 - Convert text into numerical features using TF-IDF
@@ -14,7 +14,7 @@ Automatically classify resumes into job categories using Natural Language Proces
 - Select the best-performing model (Linear SVM)
 - Deploy the model using Streamlit
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -22,19 +22,19 @@ Automatically classify resumes into job categories using Natural Language Proces
 - Streamlit
 - Matplotlib, WordCloud
 
-## 🚀 Features
+## Features
 - Resume upload (PDF / DOCX)
 - Job role prediction
 - Skill extraction
 - Word frequency analysis
 - Word cloud visualization
 
-## 📊 Models Evaluated
+## Models Evaluated
 - Logistic Regression
 - Linear SVM (Selected)
 - Random Forest
 - Naive Bayes
 
 
-## 📦 Deployment
+## Deployment
 The application is deployed using **Streamlit Cloud** and can be accessed via the live link above.
